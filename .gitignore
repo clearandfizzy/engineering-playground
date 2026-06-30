@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+coverage/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# OS / misc
+.DS_Store
