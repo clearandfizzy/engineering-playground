@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaScriptUnresolvedFunction" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JavaScriptUnresolvedReference" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JavaScriptUnresolvedVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JavaScriptUnusedLocalSymbols" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NodeJsCodeQualityInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="CODING_STANDARD" value="MySource" />
+    </inspection_tool>
+    <inspection_tool class="TypeScriptUnresolvedFunction" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TypeScriptUnresolvedVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TypeScriptUnusedLocalSymbols" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
