@@ -4,6 +4,7 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: express-sqlite
+    user: "${UID:-1000}:${GID:-1000}"
     working_dir: /app
     tty: true
     volumes:
