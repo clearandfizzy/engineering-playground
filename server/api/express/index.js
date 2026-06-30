@@ -1,11 +1,13 @@
-import express from 'express';
+import express from "express";
 
 const app = express();
 
-app.get('/hello-world', (req, res) => {
-    res.send('Hello World!');
+app.use(express.json());
+
+app.get("/", (_, res) => {
+  res.json({ message: "Hello, Engineering Playground!" });
 });
 
 app.listen(3000, () => {
-    console.log('Server is running on port 3000');
+  console.log("Server running on http://localhost:3000");
 });

@@ -8,6 +8,7 @@
   "keywords": [],
   "license": "ISC",
   "main": "index.js",
+  "type": "module",
   "packages": {},
   "devDependencies": {
     "jest": "^29.7.0",
@@ -26,5 +27,8 @@
     "start": "node index.js",
     "test": "jest",
     "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
