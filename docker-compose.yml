@@ -7,7 +7,7 @@ services:
     working_dir: /app
     tty: true
     volumes:
-      - ./server:/app:delegated
+      - ./server:/app
       - node_modules:/app/node_modules
     ports:
       - "3000:3000"

@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "packages": {},
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.14",
+    "supertest": "^7.1.1"
+  },
+  "jest": {
+    "testMatch": [
+      "**/tests/**/*.endpoint.test.js"
+    ]
+  },
+  "scripts": {
+    "db": "sqlite3 ./database/planets.db",
+    "express": "nodemon api/express/index.js",
+    "seed": "node ./database/seeds/planets.seed.js",
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
