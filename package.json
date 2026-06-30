@@ -1,0 +1,34 @@
+{
+  "name": "engineering-playground",
+  "version": "1.0.0",
+  "description": "Engineering Playground for daily self-contained software engineering exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\"",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write .",
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearandfizzy/engineering-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/clearandfizzy/engineering-playground/issues"
+  },
+  "homepage": "https://github.com/clearandfizzy/engineering-playground#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.6.0",
+    "prettier": "^3.9.4",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.62.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
