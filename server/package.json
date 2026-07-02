@@ -13,7 +13,9 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "nodemon": "^3.1.14",
-    "supertest": "^7.1.1"
+    "supertest": "^7.1.1",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
   },
   "jest": {
     "testMatch": [
@@ -26,7 +28,8 @@
     "seed": "node ./database/seeds/planets.seed.js",
     "start": "node index.js",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "eventbus:demo": "tsx typescript/30-jun-26-event-bus/demo.ts"
   },
   "dependencies": {
     "express": "^5.2.1"
