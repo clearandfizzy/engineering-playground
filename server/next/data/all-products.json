@@ -1,0 +1,3926 @@
+[
+  {
+    "id": "prod-001",
+    "sku": "MA-DRE-0001",
+    "name": "Signature Wrap Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Modern Icons",
+    "price": 2840,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Sapphire",
+      "Champagne"
+    ],
+    "materials": [
+      "Cashmere",
+      "Mulberry silk"
+    ],
+    "description": "Signature Wrap Evening Dress in cashmere with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/001-1.jpg",
+      "/products/001-2.jpg"
+    ],
+    "inventory": 9,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "atelier-crafted",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-002",
+    "sku": "MA-DRE-0002",
+    "name": "Embroidered Wide-Leg Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Couture Essentials",
+    "price": 2490,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Onyx",
+      "Slate",
+      "Sapphire"
+    ],
+    "materials": [
+      "Tweed",
+      "Merino wool"
+    ],
+    "description": "Embroidered Wide-Leg Day Dress in tweed with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/002-1.jpg",
+      "/products/002-2.jpg"
+    ],
+    "inventory": 41,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "hand-finished",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-003",
+    "sku": "MA-DRE-0003",
+    "name": "Atelier Pleated Cocktail Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Resort 2026",
+    "price": 1660,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Sapphire",
+      "Burgundy"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Velvet"
+    ],
+    "description": "Atelier Pleated Cocktail Dress in mulberry silk with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/003-1.jpg",
+      "/products/003-2.jpg"
+    ],
+    "inventory": 26,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "hand-finished",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-004",
+    "sku": "MA-DRE-0004",
+    "name": "Atelier Bias-Cut Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Autumn Atelier",
+    "price": 1260,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Ivory",
+      "Slate"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Linen blend"
+    ],
+    "description": "Atelier Bias-Cut Day Dress in organic cotton with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/004-1.jpg",
+      "/products/004-2.jpg"
+    ],
+    "inventory": 8,
+    "isLimitedEdition": true,
+    "tags": [
+      "limited-drop",
+      "hand-finished",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-005",
+    "sku": "MA-DRE-0005",
+    "name": "Velvet Statement Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Nocturne",
+    "price": 3160,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Rose Quartz",
+      "Emerald"
+    ],
+    "materials": [
+      "Satin",
+      "Linen blend"
+    ],
+    "description": "Velvet Statement Evening Dress in satin with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/005-1.jpg",
+      "/products/005-2.jpg"
+    ],
+    "inventory": 26,
+    "isLimitedEdition": true,
+    "tags": [
+      "evening",
+      "daywear",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-006",
+    "sku": "MA-DRE-0006",
+    "name": "Signature Wrap Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Nocturne",
+    "price": 2570,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Slate",
+      "Sapphire"
+    ],
+    "materials": [
+      "Cashmere",
+      "Satin"
+    ],
+    "description": "Signature Wrap Day Dress in cashmere with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/006-1.jpg",
+      "/products/006-2.jpg"
+    ],
+    "inventory": 39,
+    "isLimitedEdition": true,
+    "tags": [
+      "daywear",
+      "hand-finished",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-007",
+    "sku": "MA-DRE-0007",
+    "name": "Embroidered Statement Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Nocturne",
+    "price": 3010,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Rose Quartz",
+      "Emerald"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Nappa leather"
+    ],
+    "description": "Embroidered Statement Evening Dress in mulberry silk with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/007-1.jpg",
+      "/products/007-2.jpg"
+    ],
+    "inventory": 17,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "daywear",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-008",
+    "sku": "MA-DRE-0008",
+    "name": "Sculpted Double-Breasted Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Couture Essentials",
+    "price": 1580,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Chocolate",
+      "Emerald"
+    ],
+    "materials": [
+      "Velvet",
+      "Merino wool"
+    ],
+    "description": "Sculpted Double-Breasted Evening Dress in velvet with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/008-1.jpg",
+      "/products/008-2.jpg"
+    ],
+    "inventory": 27,
+    "isLimitedEdition": true,
+    "tags": [
+      "best-seller",
+      "evening",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-009",
+    "sku": "MA-DRE-0009",
+    "name": "Velvet Ballet Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Couture Essentials",
+    "price": 3150,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Camel",
+      "Champagne"
+    ],
+    "materials": [
+      "Merino wool",
+      "Mulberry silk"
+    ],
+    "description": "Velvet Ballet Evening Dress in merino wool with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/009-1.jpg",
+      "/products/009-2.jpg"
+    ],
+    "inventory": 42,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "atelier-crafted",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-010",
+    "sku": "MA-DRE-0010",
+    "name": "Signature Relaxed Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Autumn Atelier",
+    "price": 2690,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Emerald",
+      "Burgundy"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Organic cotton"
+    ],
+    "description": "Signature Relaxed Evening Dress in mulberry silk with organic cotton accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/010-1.jpg",
+      "/products/010-2.jpg"
+    ],
+    "inventory": 33,
+    "isLimitedEdition": true,
+    "tags": [
+      "evening",
+      "atelier-crafted",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-011",
+    "sku": "MA-DRE-0011",
+    "name": "Opaline Wrap Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Modern Icons",
+    "price": 1710,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Slate",
+      "Sapphire"
+    ],
+    "materials": [
+      "Cashmere",
+      "Linen blend"
+    ],
+    "description": "Opaline Wrap Day Dress in cashmere with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/011-1.jpg",
+      "/products/011-2.jpg"
+    ],
+    "inventory": 37,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "limited-drop",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-012",
+    "sku": "MA-DRE-0012",
+    "name": "Velvet Ribbed Cocktail Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Modern Icons",
+    "price": 1560,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Onyx",
+      "Sapphire",
+      "Ivory"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Satin"
+    ],
+    "description": "Velvet Ribbed Cocktail Dress in mulberry silk with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/012-1.jpg",
+      "/products/012-2.jpg"
+    ],
+    "inventory": 12,
+    "isLimitedEdition": true,
+    "tags": [
+      "atelier-crafted",
+      "evening",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-013",
+    "sku": "MA-DRE-0013",
+    "name": "Tailored Tapered Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Nocturne",
+    "price": 2030,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Slate",
+      "Chocolate"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Merino wool"
+    ],
+    "description": "Tailored Tapered Day Dress in organic cotton with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/013-1.jpg",
+      "/products/013-2.jpg"
+    ],
+    "inventory": 32,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "luxury",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-014",
+    "sku": "MA-DRE-0014",
+    "name": "Embroidered Wrap Cocktail Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Resort 2026",
+    "price": 1000,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Slate",
+      "Sapphire"
+    ],
+    "materials": [
+      "Velvet",
+      "Nappa leather"
+    ],
+    "description": "Embroidered Wrap Cocktail Dress in velvet with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/014-1.jpg",
+      "/products/014-2.jpg"
+    ],
+    "inventory": 7,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "hand-finished",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-015",
+    "sku": "MA-DRE-0015",
+    "name": "Velvet Tapered Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Modern Icons",
+    "price": 1660,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Pearl",
+      "Sapphire"
+    ],
+    "materials": [
+      "Tweed",
+      "Cashmere"
+    ],
+    "description": "Velvet Tapered Evening Dress in tweed with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/015-1.jpg",
+      "/products/015-2.jpg"
+    ],
+    "inventory": 40,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "hand-finished",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-016",
+    "sku": "MA-DRE-0016",
+    "name": "Embroidered Wrap Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Day Dress",
+    "collection": "Resort 2026",
+    "price": 2630,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Burgundy",
+      "Chocolate"
+    ],
+    "materials": [
+      "Merino wool",
+      "Satin"
+    ],
+    "description": "Embroidered Wrap Evening Dress in merino wool with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/016-1.jpg",
+      "/products/016-2.jpg"
+    ],
+    "inventory": 10,
+    "isLimitedEdition": true,
+    "tags": [
+      "daywear",
+      "hand-finished",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-017",
+    "sku": "MA-DRE-0017",
+    "name": "Embroidered Wide-Leg Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Autumn Atelier",
+    "price": 2320,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Camel",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Cashmere",
+      "Organic cotton"
+    ],
+    "description": "Embroidered Wide-Leg Evening Dress in cashmere with organic cotton accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/017-1.jpg",
+      "/products/017-2.jpg"
+    ],
+    "inventory": 8,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-018",
+    "sku": "MA-DRE-0018",
+    "name": "Opaline Statement Evening Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Couture Essentials",
+    "price": 1180,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Camel",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Satin",
+      "Velvet"
+    ],
+    "description": "Opaline Statement Evening Dress in satin with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/018-1.jpg",
+      "/products/018-2.jpg"
+    ],
+    "inventory": 7,
+    "isLimitedEdition": true,
+    "tags": [
+      "luxury",
+      "limited-drop",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-019",
+    "sku": "MA-DRE-0019",
+    "name": "Crystal Ballet Cocktail Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Cocktail Dress",
+    "collection": "Autumn Atelier",
+    "price": 1680,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Slate",
+      "Pearl"
+    ],
+    "materials": [
+      "Cashmere",
+      "Nappa leather"
+    ],
+    "description": "Crystal Ballet Cocktail Dress in cashmere with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/019-1.jpg",
+      "/products/019-2.jpg"
+    ],
+    "inventory": 7,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "daywear",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-020",
+    "sku": "MA-DRE-0020",
+    "name": "Silk Column Day Dress",
+    "brand": "Maison Aurelie",
+    "category": "Dresses",
+    "subcategory": "Evening Dress",
+    "collection": "Autumn Atelier",
+    "price": 2170,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Chocolate",
+      "Camel"
+    ],
+    "materials": [
+      "Italian wool",
+      "Tweed"
+    ],
+    "description": "Silk Column Day Dress in italian wool with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/020-1.jpg",
+      "/products/020-2.jpg"
+    ],
+    "inventory": 8,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "atelier-crafted",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-021",
+    "sku": "MA-TOP-0021",
+    "name": "Crystal Oversized Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Nocturne",
+    "price": 1160,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Onyx",
+      "Ivory"
+    ],
+    "materials": [
+      "Merino wool",
+      "Tweed"
+    ],
+    "description": "Crystal Oversized Blouse in merino wool with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/021-1.jpg",
+      "/products/021-2.jpg"
+    ],
+    "inventory": 17,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "new-season",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-022",
+    "sku": "MA-TOP-0022",
+    "name": "Luminous Cropped Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Modern Icons",
+    "price": 1240,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Pearl",
+      "Burgundy"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Italian wool"
+    ],
+    "description": "Luminous Cropped Top in mulberry silk with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/022-1.jpg",
+      "/products/022-2.jpg"
+    ],
+    "inventory": 40,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "evening",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-023",
+    "sku": "MA-TOP-0023",
+    "name": "Opaline Double-Breasted Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Modern Icons",
+    "price": 860,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Sapphire",
+      "Burgundy"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Cashmere"
+    ],
+    "description": "Opaline Double-Breasted Blouse in organic cotton with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/023-1.jpg",
+      "/products/023-2.jpg"
+    ],
+    "inventory": 23,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "daywear",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-024",
+    "sku": "MA-TOP-0024",
+    "name": "Tailored Structured Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Nocturne",
+    "price": 590,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Ivory",
+      "Champagne"
+    ],
+    "materials": [
+      "Tweed",
+      "Cashmere"
+    ],
+    "description": "Tailored Structured Blouse in tweed with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/024-1.jpg",
+      "/products/024-2.jpg"
+    ],
+    "inventory": 42,
+    "isLimitedEdition": true,
+    "tags": [
+      "daywear",
+      "new-season",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-025",
+    "sku": "MA-TOP-0025",
+    "name": "Signature Statement Shirt",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Resort 2026",
+    "price": 1060,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Emerald",
+      "Onyx"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Merino wool"
+    ],
+    "description": "Signature Statement Shirt in mulberry silk with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/025-1.jpg",
+      "/products/025-2.jpg"
+    ],
+    "inventory": 4,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "daywear",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-026",
+    "sku": "MA-TOP-0026",
+    "name": "Sculpted Relaxed Shirt",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Autumn Atelier",
+    "price": 1120,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Slate",
+      "Onyx"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Velvet"
+    ],
+    "description": "Sculpted Relaxed Shirt in mulberry silk with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/026-1.jpg",
+      "/products/026-2.jpg"
+    ],
+    "inventory": 38,
+    "isLimitedEdition": true,
+    "tags": [
+      "daywear",
+      "evening",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-027",
+    "sku": "MA-TOP-0027",
+    "name": "Sculpted Pleated Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Autumn Atelier",
+    "price": 470,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Burgundy",
+      "Onyx"
+    ],
+    "materials": [
+      "Linen blend",
+      "Nappa leather"
+    ],
+    "description": "Sculpted Pleated Blouse in linen blend with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/027-1.jpg",
+      "/products/027-2.jpg"
+    ],
+    "inventory": 10,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "evening",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-028",
+    "sku": "MA-TOP-0028",
+    "name": "Sculpted Wide-Leg Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Autumn Atelier",
+    "price": 640,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Onyx",
+      "Camel"
+    ],
+    "materials": [
+      "Linen blend",
+      "Merino wool"
+    ],
+    "description": "Sculpted Wide-Leg Blouse in linen blend with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/028-1.jpg",
+      "/products/028-2.jpg"
+    ],
+    "inventory": 21,
+    "isLimitedEdition": true,
+    "tags": [
+      "new-season",
+      "limited-drop",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-029",
+    "sku": "MA-TOP-0029",
+    "name": "Golden Bias-Cut Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Blouse",
+    "collection": "Autumn Atelier",
+    "price": 670,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Burgundy",
+      "Emerald"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Velvet"
+    ],
+    "description": "Golden Bias-Cut Blouse in nappa leather with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/029-1.jpg",
+      "/products/029-2.jpg"
+    ],
+    "inventory": 29,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "hand-finished",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-030",
+    "sku": "MA-TOP-0030",
+    "name": "Heritage Structured Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Autumn Atelier",
+    "price": 930,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Slate",
+      "Burgundy"
+    ],
+    "materials": [
+      "Italian wool",
+      "Mulberry silk"
+    ],
+    "description": "Heritage Structured Top in italian wool with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/030-1.jpg",
+      "/products/030-2.jpg"
+    ],
+    "inventory": 41,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "luxury",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-031",
+    "sku": "MA-TOP-0031",
+    "name": "Runway Pleated Shirt",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Autumn Atelier",
+    "price": 1350,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Rose Quartz",
+      "Slate"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Merino wool"
+    ],
+    "description": "Runway Pleated Shirt in mulberry silk with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/031-1.jpg",
+      "/products/031-2.jpg"
+    ],
+    "inventory": 20,
+    "isLimitedEdition": true,
+    "tags": [
+      "hand-finished",
+      "luxury",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-032",
+    "sku": "MA-TOP-0032",
+    "name": "Crystal Ballet Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Nocturne",
+    "price": 1290,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Sapphire",
+      "Burgundy"
+    ],
+    "materials": [
+      "Merino wool",
+      "Mulberry silk"
+    ],
+    "description": "Crystal Ballet Top in merino wool with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/032-1.jpg",
+      "/products/032-2.jpg"
+    ],
+    "inventory": 24,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "daywear",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-033",
+    "sku": "MA-TOP-0033",
+    "name": "Opaline Double-Breasted Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Blouse",
+    "collection": "Couture Essentials",
+    "price": 940,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Rose Quartz",
+      "Emerald"
+    ],
+    "materials": [
+      "Tweed",
+      "Cashmere"
+    ],
+    "description": "Opaline Double-Breasted Top in tweed with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/033-1.jpg",
+      "/products/033-2.jpg"
+    ],
+    "inventory": 28,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "evening",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-034",
+    "sku": "MA-TOP-0034",
+    "name": "Tailored Pleated Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Couture Essentials",
+    "price": 420,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Chocolate",
+      "Sapphire"
+    ],
+    "materials": [
+      "Merino wool",
+      "Linen blend"
+    ],
+    "description": "Tailored Pleated Top in merino wool with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/034-1.jpg",
+      "/products/034-2.jpg"
+    ],
+    "inventory": 32,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "hand-finished",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-035",
+    "sku": "MA-TOP-0035",
+    "name": "Sculpted Structured Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Nocturne",
+    "price": 780,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Champagne",
+      "Burgundy"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Nappa leather"
+    ],
+    "description": "Sculpted Structured Blouse in mulberry silk with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/035-1.jpg",
+      "/products/035-2.jpg"
+    ],
+    "inventory": 18,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "luxury",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-036",
+    "sku": "MA-TOP-0036",
+    "name": "Embroidered Bias-Cut Top",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Couture Essentials",
+    "price": 1400,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Pearl",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Velvet",
+      "Nappa leather"
+    ],
+    "description": "Embroidered Bias-Cut Top in velvet with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/036-1.jpg",
+      "/products/036-2.jpg"
+    ],
+    "inventory": 35,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "daywear",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-037",
+    "sku": "MA-TOP-0037",
+    "name": "Silk Ballet Blouse",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Top",
+    "collection": "Autumn Atelier",
+    "price": 960,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Camel",
+      "Slate"
+    ],
+    "materials": [
+      "Satin",
+      "Italian wool"
+    ],
+    "description": "Silk Ballet Blouse in satin with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/037-1.jpg",
+      "/products/037-2.jpg"
+    ],
+    "inventory": 11,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "daywear",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-038",
+    "sku": "MA-TOP-0038",
+    "name": "Opaline Oversized Shirt",
+    "brand": "Maison Aurelie",
+    "category": "Tops",
+    "subcategory": "Shirt",
+    "collection": "Autumn Atelier",
+    "price": 1380,
+    "currency": "USD",
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Champagne",
+      "Slate"
+    ],
+    "materials": [
+      "Merino wool",
+      "Tweed"
+    ],
+    "description": "Opaline Oversized Shirt in merino wool with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/038-1.jpg",
+      "/products/038-2.jpg"
+    ],
+    "inventory": 34,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "hand-finished",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-039",
+    "sku": "MA-TRO-0039",
+    "name": "Tailored Ballet Cigarette Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Cigarette Trousers",
+    "collection": "Nocturne",
+    "price": 1240,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Sapphire",
+      "Emerald"
+    ],
+    "materials": [
+      "Satin",
+      "Mulberry silk"
+    ],
+    "description": "Tailored Ballet Cigarette Trousers in satin with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/039-1.jpg",
+      "/products/039-2.jpg"
+    ],
+    "inventory": 19,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "evening",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-040",
+    "sku": "MA-TRO-0040",
+    "name": "Sculpted Cropped Wide-Leg Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Modern Icons",
+    "price": 1110,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Sapphire",
+      "Ivory"
+    ],
+    "materials": [
+      "Merino wool",
+      "Velvet"
+    ],
+    "description": "Sculpted Cropped Wide-Leg Trousers in merino wool with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/040-1.jpg",
+      "/products/040-2.jpg"
+    ],
+    "inventory": 33,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "hand-finished",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-041",
+    "sku": "MA-TRO-0041",
+    "name": "Luminous Ballet Cigarette Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Nocturne",
+    "price": 1510,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Onyx",
+      "Champagne",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Satin",
+      "Italian wool"
+    ],
+    "description": "Luminous Ballet Cigarette Trousers in satin with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/041-1.jpg",
+      "/products/041-2.jpg"
+    ],
+    "inventory": 28,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "evening",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-042",
+    "sku": "MA-TRO-0042",
+    "name": "Atelier Tapered Cigarette Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Resort 2026",
+    "price": 1760,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Pearl",
+      "Chocolate"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Merino wool"
+    ],
+    "description": "Atelier Tapered Cigarette Trousers in organic cotton with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/042-1.jpg",
+      "/products/042-2.jpg"
+    ],
+    "inventory": 28,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "daywear",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-043",
+    "sku": "MA-TRO-0043",
+    "name": "Golden Bias-Cut Wide-Leg Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Wide-Leg Trousers",
+    "collection": "Couture Essentials",
+    "price": 1410,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Onyx",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Velvet",
+      "Italian wool"
+    ],
+    "description": "Golden Bias-Cut Wide-Leg Trousers in velvet with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/043-1.jpg",
+      "/products/043-2.jpg"
+    ],
+    "inventory": 12,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "luxury",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-044",
+    "sku": "MA-TRO-0044",
+    "name": "Luminous Ribbed Wide-Leg Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Resort 2026",
+    "price": 1200,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Chocolate",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Merino wool"
+    ],
+    "description": "Luminous Ribbed Wide-Leg Trousers in organic cotton with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/044-1.jpg",
+      "/products/044-2.jpg"
+    ],
+    "inventory": 34,
+    "isLimitedEdition": true,
+    "tags": [
+      "luxury",
+      "best-seller",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-045",
+    "sku": "MA-TRO-0045",
+    "name": "Signature Wrap Cigarette Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Wide-Leg Trousers",
+    "collection": "Autumn Atelier",
+    "price": 670,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Onyx",
+      "Sapphire",
+      "Champagne"
+    ],
+    "materials": [
+      "Italian wool",
+      "Cashmere"
+    ],
+    "description": "Signature Wrap Cigarette Trousers in italian wool with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/045-1.jpg",
+      "/products/045-2.jpg"
+    ],
+    "inventory": 34,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "atelier-crafted",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-046",
+    "sku": "MA-TRO-0046",
+    "name": "Tailored Ballet Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Wide-Leg Trousers",
+    "collection": "Modern Icons",
+    "price": 830,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Chocolate",
+      "Ivory"
+    ],
+    "materials": [
+      "Cashmere",
+      "Organic cotton"
+    ],
+    "description": "Tailored Ballet Tailored Trousers in cashmere with organic cotton accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/046-1.jpg",
+      "/products/046-2.jpg"
+    ],
+    "inventory": 5,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "limited-drop",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-047",
+    "sku": "MA-TRO-0047",
+    "name": "Embroidered Wrap Cigarette Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Cigarette Trousers",
+    "collection": "Resort 2026",
+    "price": 1500,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Sapphire",
+      "Ivory"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Mulberry silk"
+    ],
+    "description": "Embroidered Wrap Cigarette Trousers in organic cotton with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/047-1.jpg",
+      "/products/047-2.jpg"
+    ],
+    "inventory": 26,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "luxury",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-048",
+    "sku": "MA-TRO-0048",
+    "name": "Signature Ribbed Wide-Leg Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Cigarette Trousers",
+    "collection": "Couture Essentials",
+    "price": 1700,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Pearl",
+      "Ivory"
+    ],
+    "materials": [
+      "Merino wool",
+      "Linen blend"
+    ],
+    "description": "Signature Ribbed Wide-Leg Trousers in merino wool with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/048-1.jpg",
+      "/products/048-2.jpg"
+    ],
+    "inventory": 13,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "atelier-crafted",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-049",
+    "sku": "MA-TRO-0049",
+    "name": "Noir Bias-Cut Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Couture Essentials",
+    "price": 1170,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Emerald",
+      "Burgundy"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Mulberry silk"
+    ],
+    "description": "Noir Bias-Cut Tailored Trousers in nappa leather with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/049-1.jpg",
+      "/products/049-2.jpg"
+    ],
+    "inventory": 19,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "best-seller",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-050",
+    "sku": "MA-TRO-0050",
+    "name": "Midnight Statement Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Modern Icons",
+    "price": 850,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Sapphire",
+      "Burgundy"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Linen blend"
+    ],
+    "description": "Midnight Statement Tailored Trousers in organic cotton with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/050-1.jpg",
+      "/products/050-2.jpg"
+    ],
+    "inventory": 21,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "luxury",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-051",
+    "sku": "MA-TRO-0051",
+    "name": "Atelier Pleated Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Wide-Leg Trousers",
+    "collection": "Nocturne",
+    "price": 1330,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Pearl",
+      "Champagne"
+    ],
+    "materials": [
+      "Satin",
+      "Italian wool"
+    ],
+    "description": "Atelier Pleated Tailored Trousers in satin with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/051-1.jpg",
+      "/products/051-2.jpg"
+    ],
+    "inventory": 18,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "best-seller",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-052",
+    "sku": "MA-TRO-0052",
+    "name": "Runway Ribbed Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Couture Essentials",
+    "price": 1320,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Burgundy",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Tweed",
+      "Linen blend"
+    ],
+    "description": "Runway Ribbed Tailored Trousers in tweed with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/052-1.jpg",
+      "/products/052-2.jpg"
+    ],
+    "inventory": 21,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-053",
+    "sku": "MA-TRO-0053",
+    "name": "Embroidered Ribbed Wide-Leg Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Tailored Trousers",
+    "collection": "Modern Icons",
+    "price": 1570,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Camel",
+      "Sapphire"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Satin"
+    ],
+    "description": "Embroidered Ribbed Wide-Leg Trousers in nappa leather with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/053-1.jpg",
+      "/products/053-2.jpg"
+    ],
+    "inventory": 37,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "hand-finished",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-054",
+    "sku": "MA-TRO-0054",
+    "name": "Tailored Wide-Leg Tailored Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Trousers",
+    "subcategory": "Wide-Leg Trousers",
+    "collection": "Resort 2026",
+    "price": 840,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Onyx",
+      "Slate"
+    ],
+    "materials": [
+      "Cashmere",
+      "Organic cotton"
+    ],
+    "description": "Tailored Wide-Leg Tailored Trousers in cashmere with organic cotton accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/054-1.jpg",
+      "/products/054-2.jpg"
+    ],
+    "inventory": 39,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "daywear",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-055",
+    "sku": "MA-OUT-0055",
+    "name": "Velvet Statement Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Coat",
+    "collection": "Resort 2026",
+    "price": 4130,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald",
+      "Pearl",
+      "Champagne"
+    ],
+    "materials": [
+      "Satin",
+      "Linen blend"
+    ],
+    "description": "Velvet Statement Coat in satin with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/055-1.jpg",
+      "/products/055-2.jpg"
+    ],
+    "inventory": 20,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "luxury",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-056",
+    "sku": "MA-OUT-0056",
+    "name": "Luminous Bias-Cut Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Coat",
+    "collection": "Autumn Atelier",
+    "price": 4150,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Onyx",
+      "Camel"
+    ],
+    "materials": [
+      "Cashmere",
+      "Organic cotton"
+    ],
+    "description": "Luminous Bias-Cut Coat in cashmere with organic cotton accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/056-1.jpg",
+      "/products/056-2.jpg"
+    ],
+    "inventory": 11,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "evening",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-057",
+    "sku": "MA-OUT-0057",
+    "name": "Noir Oversized Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "collection": "Modern Icons",
+    "price": 3870,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Pearl",
+      "Champagne"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Merino wool"
+    ],
+    "description": "Noir Oversized Coat in organic cotton with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/057-1.jpg",
+      "/products/057-2.jpg"
+    ],
+    "inventory": 7,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "hand-finished",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-058",
+    "sku": "MA-OUT-0058",
+    "name": "Signature Wide-Leg Jacket",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Coat",
+    "collection": "Autumn Atelier",
+    "price": 4580,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Camel",
+      "Sapphire"
+    ],
+    "materials": [
+      "Cashmere",
+      "Tweed"
+    ],
+    "description": "Signature Wide-Leg Jacket in cashmere with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/058-1.jpg",
+      "/products/058-2.jpg"
+    ],
+    "inventory": 4,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "best-seller",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-059",
+    "sku": "MA-OUT-0059",
+    "name": "Embroidered Double-Breasted Trench",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "collection": "Resort 2026",
+    "price": 2640,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Ivory",
+      "Sapphire"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Nappa leather"
+    ],
+    "description": "Embroidered Double-Breasted Trench in organic cotton with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/059-1.jpg",
+      "/products/059-2.jpg"
+    ],
+    "inventory": 38,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "atelier-crafted",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-060",
+    "sku": "MA-OUT-0060",
+    "name": "Velvet Column Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "collection": "Nocturne",
+    "price": 2770,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Chocolate",
+      "Emerald"
+    ],
+    "materials": [
+      "Satin",
+      "Mulberry silk"
+    ],
+    "description": "Velvet Column Coat in satin with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/060-1.jpg",
+      "/products/060-2.jpg"
+    ],
+    "inventory": 29,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "limited-drop",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-061",
+    "sku": "MA-OUT-0061",
+    "name": "Runway Column Jacket",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Trench",
+    "collection": "Modern Icons",
+    "price": 2850,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Emerald",
+      "Onyx"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Nappa leather"
+    ],
+    "description": "Runway Column Jacket in mulberry silk with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/061-1.jpg",
+      "/products/061-2.jpg"
+    ],
+    "inventory": 41,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "atelier-crafted",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-062",
+    "sku": "MA-OUT-0062",
+    "name": "Noir Ballet Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Trench",
+    "collection": "Couture Essentials",
+    "price": 3600,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Pearl",
+      "Emerald"
+    ],
+    "materials": [
+      "Cashmere",
+      "Merino wool"
+    ],
+    "description": "Noir Ballet Coat in cashmere with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/062-1.jpg",
+      "/products/062-2.jpg"
+    ],
+    "inventory": 9,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "best-seller",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-063",
+    "sku": "MA-OUT-0063",
+    "name": "Signature Wrap Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Coat",
+    "collection": "Couture Essentials",
+    "price": 2880,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Pearl",
+      "Emerald"
+    ],
+    "materials": [
+      "Merino wool",
+      "Tweed"
+    ],
+    "description": "Signature Wrap Coat in merino wool with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/063-1.jpg",
+      "/products/063-2.jpg"
+    ],
+    "inventory": 9,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "luxury",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-064",
+    "sku": "MA-OUT-0064",
+    "name": "Golden Tapered Coat",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Trench",
+    "collection": "Nocturne",
+    "price": 4560,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Slate",
+      "Pearl",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Italian wool",
+      "Nappa leather"
+    ],
+    "description": "Golden Tapered Coat in italian wool with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/064-1.jpg",
+      "/products/064-2.jpg"
+    ],
+    "inventory": 35,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "new-season",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-065",
+    "sku": "MA-OUT-0065",
+    "name": "Opaline Cropped Jacket",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Trench",
+    "collection": "Autumn Atelier",
+    "price": 3440,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Ivory",
+      "Onyx"
+    ],
+    "materials": [
+      "Velvet",
+      "Nappa leather"
+    ],
+    "description": "Opaline Cropped Jacket in velvet with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/065-1.jpg",
+      "/products/065-2.jpg"
+    ],
+    "inventory": 23,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "luxury",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-066",
+    "sku": "MA-OUT-0066",
+    "name": "Golden Wrap Jacket",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Trench",
+    "collection": "Nocturne",
+    "price": 1800,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Camel",
+      "Pearl"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Tweed"
+    ],
+    "description": "Golden Wrap Jacket in organic cotton with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/066-1.jpg",
+      "/products/066-2.jpg"
+    ],
+    "inventory": 30,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "new-season",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-067",
+    "sku": "MA-OUT-0067",
+    "name": "Embroidered Oversized Trench",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "collection": "Resort 2026",
+    "price": 1890,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Ivory",
+      "Emerald",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Linen blend",
+      "Tweed"
+    ],
+    "description": "Embroidered Oversized Trench in linen blend with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/067-1.jpg",
+      "/products/067-2.jpg"
+    ],
+    "inventory": 22,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "hand-finished",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-068",
+    "sku": "MA-OUT-0068",
+    "name": "Midnight Tapered Jacket",
+    "brand": "Maison Aurelie",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "collection": "Autumn Atelier",
+    "price": 2960,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Burgundy",
+      "Slate",
+      "Champagne"
+    ],
+    "materials": [
+      "Merino wool",
+      "Satin"
+    ],
+    "description": "Midnight Tapered Jacket in merino wool with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/068-1.jpg",
+      "/products/068-2.jpg"
+    ],
+    "inventory": 19,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "hand-finished",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-069",
+    "sku": "MA-KNI-0069",
+    "name": "Silk Ribbed Turtleneck",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Sweater",
+    "collection": "Modern Icons",
+    "price": 1890,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Chocolate",
+      "Camel"
+    ],
+    "materials": [
+      "Satin",
+      "Italian wool"
+    ],
+    "description": "Silk Ribbed Turtleneck in satin with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/069-1.jpg",
+      "/products/069-2.jpg"
+    ],
+    "inventory": 41,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "hand-finished",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-070",
+    "sku": "MA-KNI-0070",
+    "name": "Velvet Tapered Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Cardigan",
+    "collection": "Nocturne",
+    "price": 710,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Rose Quartz",
+      "Chocolate"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Satin"
+    ],
+    "description": "Velvet Tapered Cardigan in mulberry silk with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/070-1.jpg",
+      "/products/070-2.jpg"
+    ],
+    "inventory": 29,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "hand-finished",
+      "atelier-crafted"
+    ]
+  },
+  {
+    "id": "prod-071",
+    "sku": "MA-KNI-0071",
+    "name": "Golden Tapered Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Sweater",
+    "collection": "Nocturne",
+    "price": 1490,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Pearl",
+      "Slate"
+    ],
+    "materials": [
+      "Italian wool",
+      "Mulberry silk"
+    ],
+    "description": "Golden Tapered Cardigan in italian wool with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/071-1.jpg",
+      "/products/071-2.jpg"
+    ],
+    "inventory": 18,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-072",
+    "sku": "MA-KNI-0072",
+    "name": "Atelier Statement Sweater",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Sweater",
+    "collection": "Nocturne",
+    "price": 1810,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Emerald",
+      "Onyx"
+    ],
+    "materials": [
+      "Italian wool",
+      "Linen blend"
+    ],
+    "description": "Atelier Statement Sweater in italian wool with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/072-1.jpg",
+      "/products/072-2.jpg"
+    ],
+    "inventory": 26,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "new-season",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-073",
+    "sku": "MA-KNI-0073",
+    "name": "Luminous Oversized Turtleneck",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Turtleneck",
+    "collection": "Autumn Atelier",
+    "price": 1140,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Chocolate",
+      "Ivory"
+    ],
+    "materials": [
+      "Velvet",
+      "Merino wool"
+    ],
+    "description": "Luminous Oversized Turtleneck in velvet with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/073-1.jpg",
+      "/products/073-2.jpg"
+    ],
+    "inventory": 35,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "new-season",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-074",
+    "sku": "MA-KNI-0074",
+    "name": "Signature Double-Breasted Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Sweater",
+    "collection": "Resort 2026",
+    "price": 1330,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Onyx",
+      "Pearl"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Tweed"
+    ],
+    "description": "Signature Double-Breasted Cardigan in organic cotton with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/074-1.jpg",
+      "/products/074-2.jpg"
+    ],
+    "inventory": 32,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "daywear",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-075",
+    "sku": "MA-KNI-0075",
+    "name": "Atelier Double-Breasted Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Cardigan",
+    "collection": "Modern Icons",
+    "price": 1450,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Sapphire",
+      "Rose Quartz",
+      "Pearl"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Nappa leather"
+    ],
+    "description": "Atelier Double-Breasted Cardigan in mulberry silk with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/075-1.jpg",
+      "/products/075-2.jpg"
+    ],
+    "inventory": 26,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-076",
+    "sku": "MA-KNI-0076",
+    "name": "Luminous Double-Breasted Sweater",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Turtleneck",
+    "collection": "Nocturne",
+    "price": 2120,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Onyx",
+      "Pearl"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Nappa leather"
+    ],
+    "description": "Luminous Double-Breasted Sweater in organic cotton with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/076-1.jpg",
+      "/products/076-2.jpg"
+    ],
+    "inventory": 18,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "daywear",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-077",
+    "sku": "MA-KNI-0077",
+    "name": "Noir Structured Turtleneck",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Sweater",
+    "collection": "Modern Icons",
+    "price": 1030,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Ivory",
+      "Onyx"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Satin"
+    ],
+    "description": "Noir Structured Turtleneck in organic cotton with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/077-1.jpg",
+      "/products/077-2.jpg"
+    ],
+    "inventory": 27,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "best-seller",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-078",
+    "sku": "MA-KNI-0078",
+    "name": "Atelier Pleated Sweater",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Cardigan",
+    "collection": "Autumn Atelier",
+    "price": 1190,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Slate",
+      "Burgundy"
+    ],
+    "materials": [
+      "Tweed",
+      "Velvet"
+    ],
+    "description": "Atelier Pleated Sweater in tweed with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/078-1.jpg",
+      "/products/078-2.jpg"
+    ],
+    "inventory": 20,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "hand-finished",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-079",
+    "sku": "MA-KNI-0079",
+    "name": "Atelier Statement Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Turtleneck",
+    "collection": "Nocturne",
+    "price": 970,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Ivory",
+      "Camel"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Merino wool"
+    ],
+    "description": "Atelier Statement Cardigan in nappa leather with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/079-1.jpg",
+      "/products/079-2.jpg"
+    ],
+    "inventory": 9,
+    "isLimitedEdition": false,
+    "tags": [
+      "luxury",
+      "best-seller",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-080",
+    "sku": "MA-KNI-0080",
+    "name": "Velvet Bias-Cut Cardigan",
+    "brand": "Maison Aurelie",
+    "category": "Knitwear",
+    "subcategory": "Cardigan",
+    "collection": "Resort 2026",
+    "price": 1350,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Rose Quartz",
+      "Burgundy"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Nappa leather"
+    ],
+    "description": "Velvet Bias-Cut Cardigan in mulberry silk with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/080-1.jpg",
+      "/products/080-2.jpg"
+    ],
+    "inventory": 39,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "daywear",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-081",
+    "sku": "MA-TAI-0081",
+    "name": "Signature Statement Waistcoat",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Blazer",
+    "collection": "Nocturne",
+    "price": 2520,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Rose Quartz",
+      "Ivory"
+    ],
+    "materials": [
+      "Cashmere",
+      "Italian wool"
+    ],
+    "description": "Signature Statement Waistcoat in cashmere with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/081-1.jpg",
+      "/products/081-2.jpg"
+    ],
+    "inventory": 35,
+    "isLimitedEdition": true,
+    "tags": [
+      "limited-drop",
+      "evening",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-082",
+    "sku": "MA-TAI-0082",
+    "name": "Luminous Bias-Cut Waistcoat",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Suit Trousers",
+    "collection": "Couture Essentials",
+    "price": 3120,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Champagne",
+      "Camel",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Satin"
+    ],
+    "description": "Luminous Bias-Cut Waistcoat in mulberry silk with satin accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/082-1.jpg",
+      "/products/082-2.jpg"
+    ],
+    "inventory": 21,
+    "isLimitedEdition": true,
+    "tags": [
+      "daywear",
+      "new-season",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-083",
+    "sku": "MA-TAI-0083",
+    "name": "Midnight Wide-Leg Waistcoat",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Waistcoat",
+    "collection": "Nocturne",
+    "price": 1480,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Burgundy",
+      "Slate"
+    ],
+    "materials": [
+      "Linen blend",
+      "Italian wool"
+    ],
+    "description": "Midnight Wide-Leg Waistcoat in linen blend with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/083-1.jpg",
+      "/products/083-2.jpg"
+    ],
+    "inventory": 16,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-084",
+    "sku": "MA-TAI-0084",
+    "name": "Embroidered Structured Suit Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Blazer",
+    "collection": "Modern Icons",
+    "price": 1080,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Onyx",
+      "Burgundy",
+      "Sapphire"
+    ],
+    "materials": [
+      "Cashmere",
+      "Nappa leather"
+    ],
+    "description": "Embroidered Structured Suit Trousers in cashmere with nappa leather accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/084-1.jpg",
+      "/products/084-2.jpg"
+    ],
+    "inventory": 17,
+    "isLimitedEdition": false,
+    "tags": [
+      "limited-drop",
+      "best-seller",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-085",
+    "sku": "MA-TAI-0085",
+    "name": "Noir Oversized Blazer",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Blazer",
+    "collection": "Resort 2026",
+    "price": 2390,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Chocolate",
+      "Slate"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Cashmere"
+    ],
+    "description": "Noir Oversized Blazer in organic cotton with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/085-1.jpg",
+      "/products/085-2.jpg"
+    ],
+    "inventory": 12,
+    "isLimitedEdition": true,
+    "tags": [
+      "limited-drop",
+      "evening",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-086",
+    "sku": "MA-TAI-0086",
+    "name": "Silk Cropped Waistcoat",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Waistcoat",
+    "collection": "Couture Essentials",
+    "price": 1240,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Rose Quartz",
+      "Slate"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Velvet"
+    ],
+    "description": "Silk Cropped Waistcoat in mulberry silk with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/086-1.jpg",
+      "/products/086-2.jpg"
+    ],
+    "inventory": 27,
+    "isLimitedEdition": false,
+    "tags": [
+      "new-season",
+      "limited-drop",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-087",
+    "sku": "MA-TAI-0087",
+    "name": "Embroidered Oversized Blazer",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Waistcoat",
+    "collection": "Resort 2026",
+    "price": 2520,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Pearl",
+      "Onyx",
+      "Champagne"
+    ],
+    "materials": [
+      "Satin",
+      "Merino wool"
+    ],
+    "description": "Embroidered Oversized Blazer in satin with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/087-1.jpg",
+      "/products/087-2.jpg"
+    ],
+    "inventory": 35,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "luxury",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-088",
+    "sku": "MA-TAI-0088",
+    "name": "Heritage Oversized Blazer",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Suit Trousers",
+    "collection": "Modern Icons",
+    "price": 1310,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Camel",
+      "Emerald",
+      "Slate"
+    ],
+    "materials": [
+      "Linen blend",
+      "Merino wool"
+    ],
+    "description": "Heritage Oversized Blazer in linen blend with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/088-1.jpg",
+      "/products/088-2.jpg"
+    ],
+    "inventory": 22,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "luxury",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-089",
+    "sku": "MA-TAI-0089",
+    "name": "Velvet Statement Suit Trousers",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Waistcoat",
+    "collection": "Couture Essentials",
+    "price": 2080,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Rose Quartz",
+      "Pearl",
+      "Sapphire"
+    ],
+    "materials": [
+      "Merino wool",
+      "Linen blend"
+    ],
+    "description": "Velvet Statement Suit Trousers in merino wool with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/089-1.jpg",
+      "/products/089-2.jpg"
+    ],
+    "inventory": 30,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "limited-drop",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-090",
+    "sku": "MA-TAI-0090",
+    "name": "Signature Double-Breasted Waistcoat",
+    "brand": "Maison Aurelie",
+    "category": "Tailoring",
+    "subcategory": "Blazer",
+    "collection": "Couture Essentials",
+    "price": 1760,
+    "currency": "USD",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Chocolate",
+      "Pearl",
+      "Ivory"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Velvet"
+    ],
+    "description": "Signature Double-Breasted Waistcoat in mulberry silk with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/090-1.jpg",
+      "/products/090-2.jpg"
+    ],
+    "inventory": 10,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "hand-finished",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-091",
+    "sku": "MA-FOO-0091",
+    "name": "Opaline Column Boot",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Boot",
+    "collection": "Couture Essentials",
+    "price": 1580,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Chocolate",
+      "Ivory"
+    ],
+    "materials": [
+      "Merino wool",
+      "Linen blend"
+    ],
+    "description": "Opaline Column Boot in merino wool with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/091-1.jpg",
+      "/products/091-2.jpg"
+    ],
+    "inventory": 7,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "best-seller",
+      "luxury"
+    ]
+  },
+  {
+    "id": "prod-092",
+    "sku": "MA-FOO-0092",
+    "name": "Runway Tapered Heel",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Loafer",
+    "collection": "Modern Icons",
+    "price": 1130,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Chocolate",
+      "Pearl"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Mulberry silk"
+    ],
+    "description": "Runway Tapered Heel in nappa leather with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/092-1.jpg",
+      "/products/092-2.jpg"
+    ],
+    "inventory": 27,
+    "isLimitedEdition": true,
+    "tags": [
+      "evening",
+      "atelier-crafted",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-093",
+    "sku": "MA-FOO-0093",
+    "name": "Noir Pleated Boot",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Loafer",
+    "collection": "Nocturne",
+    "price": 800,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Champagne",
+      "Emerald"
+    ],
+    "materials": [
+      "Italian wool",
+      "Cashmere"
+    ],
+    "description": "Noir Pleated Boot in italian wool with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/093-1.jpg",
+      "/products/093-2.jpg"
+    ],
+    "inventory": 25,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "hand-finished",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-094",
+    "sku": "MA-FOO-0094",
+    "name": "Runway Structured Loafer",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Heel",
+    "collection": "Couture Essentials",
+    "price": 910,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Camel",
+      "Onyx"
+    ],
+    "materials": [
+      "Mulberry silk",
+      "Tweed"
+    ],
+    "description": "Runway Structured Loafer in mulberry silk with tweed accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/094-1.jpg",
+      "/products/094-2.jpg"
+    ],
+    "inventory": 30,
+    "isLimitedEdition": false,
+    "tags": [
+      "best-seller",
+      "atelier-crafted",
+      "hand-finished"
+    ]
+  },
+  {
+    "id": "prod-095",
+    "sku": "MA-FOO-0095",
+    "name": "Atelier Ribbed Boot",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Boot",
+    "collection": "Resort 2026",
+    "price": 950,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Onyx",
+      "Camel"
+    ],
+    "materials": [
+      "Cashmere",
+      "Italian wool"
+    ],
+    "description": "Atelier Ribbed Boot in cashmere with italian wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/095-1.jpg",
+      "/products/095-2.jpg"
+    ],
+    "inventory": 21,
+    "isLimitedEdition": false,
+    "tags": [
+      "hand-finished",
+      "limited-drop",
+      "evening"
+    ]
+  },
+  {
+    "id": "prod-096",
+    "sku": "MA-FOO-0096",
+    "name": "Midnight Pleated Loafer",
+    "brand": "Maison Aurelie",
+    "category": "Footwear",
+    "subcategory": "Heel",
+    "collection": "Nocturne",
+    "price": 1290,
+    "currency": "USD",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "Slate",
+      "Ivory"
+    ],
+    "materials": [
+      "Linen blend",
+      "Merino wool"
+    ],
+    "description": "Midnight Pleated Loafer in linen blend with merino wool accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/096-1.jpg",
+      "/products/096-2.jpg"
+    ],
+    "inventory": 41,
+    "isLimitedEdition": false,
+    "tags": [
+      "evening",
+      "luxury",
+      "new-season"
+    ]
+  },
+  {
+    "id": "prod-097",
+    "sku": "MA-ACC-0097",
+    "name": "Luminous Oversized Scarf",
+    "brand": "Maison Aurelie",
+    "category": "Accessories",
+    "subcategory": "Belt",
+    "collection": "Nocturne",
+    "price": 390,
+    "currency": "USD",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Sapphire",
+      "Emerald"
+    ],
+    "materials": [
+      "Nappa leather",
+      "Cashmere"
+    ],
+    "description": "Luminous Oversized Scarf in nappa leather with cashmere accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/097-1.jpg",
+      "/products/097-2.jpg"
+    ],
+    "inventory": 24,
+    "isLimitedEdition": true,
+    "tags": [
+      "atelier-crafted",
+      "daywear",
+      "limited-drop"
+    ]
+  },
+  {
+    "id": "prod-098",
+    "sku": "MA-ACC-0098",
+    "name": "Sculpted Cropped Belt",
+    "brand": "Maison Aurelie",
+    "category": "Accessories",
+    "subcategory": "Scarf",
+    "collection": "Couture Essentials",
+    "price": 1740,
+    "currency": "USD",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Sapphire",
+      "Slate"
+    ],
+    "materials": [
+      "Tweed",
+      "Linen blend"
+    ],
+    "description": "Sculpted Cropped Belt in tweed with linen blend accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/098-1.jpg",
+      "/products/098-2.jpg"
+    ],
+    "inventory": 6,
+    "isLimitedEdition": false,
+    "tags": [
+      "atelier-crafted",
+      "luxury",
+      "best-seller"
+    ]
+  },
+  {
+    "id": "prod-099",
+    "sku": "MA-ACC-0099",
+    "name": "Runway Pleated Bag",
+    "brand": "Maison Aurelie",
+    "category": "Accessories",
+    "subcategory": "Belt",
+    "collection": "Resort 2026",
+    "price": 1410,
+    "currency": "USD",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Chocolate",
+      "Rose Quartz"
+    ],
+    "materials": [
+      "Organic cotton",
+      "Mulberry silk"
+    ],
+    "description": "Runway Pleated Bag in organic cotton with mulberry silk accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/099-1.jpg",
+      "/products/099-2.jpg"
+    ],
+    "inventory": 24,
+    "isLimitedEdition": true,
+    "tags": [
+      "atelier-crafted",
+      "hand-finished",
+      "daywear"
+    ]
+  },
+  {
+    "id": "prod-100",
+    "sku": "MA-ACC-0100",
+    "name": "Crystal Ribbed Scarf",
+    "brand": "Maison Aurelie",
+    "category": "Accessories",
+    "subcategory": "Bag",
+    "collection": "Resort 2026",
+    "price": 1490,
+    "currency": "USD",
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Ivory",
+      "Sapphire"
+    ],
+    "materials": [
+      "Merino wool",
+      "Velvet"
+    ],
+    "description": "Crystal Ribbed Scarf in merino wool with velvet accents, crafted for elevated everyday luxury.",
+    "images": [
+      "/products/100-1.jpg",
+      "/products/100-2.jpg"
+    ],
+    "inventory": 29,
+    "isLimitedEdition": false,
+    "tags": [
+      "daywear",
+      "new-season",
+      "best-seller"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder product image</title>
+  <desc id="desc">A neutral gradient card with a simple shirt icon and placeholder label.</desc>
+
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1200" y2="1500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F5F7FA"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="icon-gradient" x1="388" y1="360" x2="812" y2="820" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CBD5E1"/>
+      <stop offset="1" stop-color="#94A3B8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="1500" rx="48" fill="url(#bg-gradient)"/>
+
+  <g opacity="0.28">
+    <circle cx="250" cy="230" r="90" fill="#FFFFFF"/>
+    <circle cx="1020" cy="350" r="140" fill="#FFFFFF"/>
+    <circle cx="940" cy="1220" r="180" fill="#FFFFFF"/>
+  </g>
+
+  <path d="M490 420L380 520L430 640V940C430 961.046 446.954 978 468 978H732C753.046 978 770 961.046 770 940V640L820 520L710 420L640 500H560L490 420Z" fill="url(#icon-gradient)"/>
+  <path d="M560 500H640V650H560V500Z" fill="#E2E8F0" fill-opacity="0.75"/>
+
+  <text x="600" y="1110" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="600" fill="#475569">
+    Product Image
+  </text>
+  <text x="600" y="1180" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" fill="#64748B">
+    Placeholder
+  </text>
+</svg>
