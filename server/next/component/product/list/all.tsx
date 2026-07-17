@@ -1,16 +1,23 @@
-import data from "@/data/all-products.json";
 import Item from "@/component/product/list/item";
 
-export default function AllProducts() {
+type AllProductsType = {
+	products: Array<{
+		id: string;
+		name: string;
+	}>
+}
+
+const AllProducts = async({products}: AllProductsType) => {
 	return (<section>
-		<h1 className={"text-2xl"}>Product List Page</h1>
 		<div className={"py-4"}>
-			<p>{data.length} products listed</p>
+			<p>{products.length} products listed</p>
 		</div>
 		<div className={"grid grid-cols-3 gap-4"}>
-			{data.map((item) => (
+			{products.map((item) => (
 				<Item key={item.id} data={item} />
 			))}
 		</div>
 	</section>)
 }
+
+export default AllProducts;
