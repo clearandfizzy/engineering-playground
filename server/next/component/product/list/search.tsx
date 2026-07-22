@@ -12,7 +12,7 @@ const ProductSearch = () => {
             <input type="hidden" name="page" value={searchParams.get('page') ?? 1} />
             <input type="hidden" name="page" value={searchParams.get('sort') ?? 'id'} />
             <input 
-                className={"block rounded-2xl rounded-r-none border-gray-800 border border-r-0 p-2"}
+                className={"block rounded-2xl rounded-r-none border-gray-800 border border-r-0 p-3 font-sans"}
                 type="text" 
                 name="q"
                 defaultValue={searchParams.get('q') ?? ''}
